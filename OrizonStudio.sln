@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{002093A1-5554-461E-A536-9110132549FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrizonStudio.Domain", "src\OrizonStudio.Domain\OrizonStudio.Domain.csproj", "{65093EEE-1032-47EB-A4BC-567FD2014BF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrizonStudio.Application", "src\OrizonStudio.Application\OrizonStudio.Application.csproj", "{62054B11-33E5-4657-A33F-E834A8E5C6F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrizonStudio.Infrastructure", "src\OrizonStudio.Infrastructure\OrizonStudio.Infrastructure.csproj", "{BD5023CA-90C8-4E60-81CD-7D2F885A5101}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrizonStudio.Web", "src\OrizonStudio.Web\OrizonStudio.Web.csproj", "{B6AF50AF-0670-4680-9B55-2C3E72D1F349}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrizonStudio.API", "src\OrizonStudio.API\OrizonStudio.API.csproj", "{645E69F8-B775-4274-9E44-F26F4A2BF7ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65093EEE-1032-47EB-A4BC-567FD2014BF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65093EEE-1032-47EB-A4BC-567FD2014BF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65093EEE-1032-47EB-A4BC-567FD2014BF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65093EEE-1032-47EB-A4BC-567FD2014BF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62054B11-33E5-4657-A33F-E834A8E5C6F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62054B11-33E5-4657-A33F-E834A8E5C6F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62054B11-33E5-4657-A33F-E834A8E5C6F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62054B11-33E5-4657-A33F-E834A8E5C6F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD5023CA-90C8-4E60-81CD-7D2F885A5101}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD5023CA-90C8-4E60-81CD-7D2F885A5101}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD5023CA-90C8-4E60-81CD-7D2F885A5101}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD5023CA-90C8-4E60-81CD-7D2F885A5101}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6AF50AF-0670-4680-9B55-2C3E72D1F349}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6AF50AF-0670-4680-9B55-2C3E72D1F349}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6AF50AF-0670-4680-9B55-2C3E72D1F349}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6AF50AF-0670-4680-9B55-2C3E72D1F349}.Release|Any CPU.Build.0 = Release|Any CPU
+		{645E69F8-B775-4274-9E44-F26F4A2BF7ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{645E69F8-B775-4274-9E44-F26F4A2BF7ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{645E69F8-B775-4274-9E44-F26F4A2BF7ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{645E69F8-B775-4274-9E44-F26F4A2BF7ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{65093EEE-1032-47EB-A4BC-567FD2014BF4} = {002093A1-5554-461E-A536-9110132549FD}
+		{62054B11-33E5-4657-A33F-E834A8E5C6F8} = {002093A1-5554-461E-A536-9110132549FD}
+		{BD5023CA-90C8-4E60-81CD-7D2F885A5101} = {002093A1-5554-461E-A536-9110132549FD}
+		{B6AF50AF-0670-4680-9B55-2C3E72D1F349} = {002093A1-5554-461E-A536-9110132549FD}
+		{645E69F8-B775-4274-9E44-F26F4A2BF7ED} = {002093A1-5554-461E-A536-9110132549FD}
+	EndGlobalSection
+EndGlobal

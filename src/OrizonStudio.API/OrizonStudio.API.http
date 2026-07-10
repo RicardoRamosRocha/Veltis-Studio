@@ -1,0 +1,6 @@
+@OrizonStudio.API_HostAddress = http://localhost:5047
+
+GET {{OrizonStudio.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
