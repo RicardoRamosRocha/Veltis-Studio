@@ -1,6 +1,6 @@
 # Componentes
 
-> Este documento define os componentes visuais oficiais da Veltis Studio. Todo elemento de interface utilizado na plataforma deverá seguir estes padrões, garantindo consistência visual, reutilização de código e uma experiência uniforme para o usuário.
+> Este documento define os componentes visuais oficiais da Orizon Studio. Todo elemento de interface utilizado na plataforma deverá seguir estes padrões, garantindo consistência visual, reutilização de código e uma experiência uniforme para o usuário.
 
 Versão: 1.0
 Status: Em elaboração
@@ -380,6 +380,6 @@ Sempre que possível, novos componentes deverão ser construídos reutilizando e
 
 # Considerações Finais
 
-Os componentes definidos neste documento representam a base visual da Veltis Studio.
+Os componentes definidos neste documento representam a base visual da Orizon Studio.
 
 Sua utilização consistente permitirá acelerar o desenvolvimento, facilitar a manutenção do código e proporcionar uma experiência de usuário moderna, intuitiva e profissional em toda a plataforma.

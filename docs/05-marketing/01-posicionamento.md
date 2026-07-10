@@ -1,6 +1,6 @@
 # Posicionamento
 
-> O posicionamento da Veltis Studio define como desejamos ser percebidos pelo mercado. Mais do que um software de gestão, nossa proposta é ser uma plataforma de crescimento para escritórios de engenharia, arquitetura e design.
+> O posicionamento da Orizon Studio define como desejamos ser percebidos pelo mercado. Mais do que um software de gestão, nossa proposta é ser uma plataforma de crescimento para escritórios de engenharia, arquitetura e design.
 
 Versão: 1.0
 Status: Em elaboração
@@ -9,7 +9,7 @@ Status: Em elaboração
 
 # Objetivo
 
-Estabelecer o posicionamento estratégico da Veltis Studio, garantindo consistência em toda comunicação, marketing e desenvolvimento do produto.
+Estabelecer o posicionamento estratégico da Orizon Studio, garantindo consistência em toda comunicação, marketing e desenvolvimento do produto.
 
 ---
 
@@ -27,7 +27,7 @@ Ser a principal plataforma SaaS para crescimento de escritórios técnicos na Am
 
 # Nossa Proposta de Valor
 
-A Veltis Studio oferece muito mais do que gestão de projetos.
+A Orizon Studio oferece muito mais do que gestão de projetos.
 
 Nossa plataforma une:
 
@@ -57,7 +57,7 @@ Hoje a maioria dos profissionais enfrenta dificuldades como:
 
 # Nossa Solução
 
-A Veltis Studio centraliza todo o processo.
+A Orizon Studio centraliza todo o processo.
 
 Desde a captação do cliente até a entrega do projeto.
 
@@ -148,6 +148,6 @@ Se a resposta for não, sua implementação deverá ser reavaliada.
 
 # Considerações Finais
 
-O posicionamento da Veltis Studio será um dos principais ativos da empresa.
+O posicionamento da Orizon Studio será um dos principais ativos da empresa.
 
 Ele deverá orientar o desenvolvimento do produto, o marketing, o atendimento e todas as ações de comunicação com o mercado.

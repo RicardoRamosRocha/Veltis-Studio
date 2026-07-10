@@ -1,6 +1,6 @@
 # Product Backlog
 
-> O Product Backlog reúne todas as funcionalidades planejadas para a Veltis Studio, organizadas por módulos e prioridades. Este documento será continuamente atualizado durante a evolução da plataforma.
+> O Product Backlog reúne todas as funcionalidades planejadas para a Orizon Studio, organizadas por módulos e prioridades. Este documento será continuamente atualizado durante a evolução da plataforma.
 
 Versão: 1.0  
 Status: Em elaboração
@@ -229,6 +229,6 @@ Novas funcionalidades poderão ser adicionadas, removidas ou reordenadas conform
 - Feedback dos clientes.
 - Necessidades do mercado.
 - Evolução tecnológica.
-- Estratégia da Veltis Studio.
+- Estratégia da Orizon Studio.
 
 Toda nova funcionalidade deverá ser avaliada quanto ao impacto, prioridade e alinhamento com os objetivos do produto antes de ser incorporada ao planejamento.

@@ -1,6 +1,6 @@
 # Modelagem da Solução
 
-> Este documento apresenta a organização conceitual dos módulos que compõem a Veltis Studio e como eles se relacionam entre si. Seu objetivo é orientar a modelagem do domínio e manter a arquitetura organizada à medida que a plataforma evolui.
+> Este documento apresenta a organização conceitual dos módulos que compõem a Orizon Studio e como eles se relacionam entre si. Seu objetivo é orientar a modelagem do domínio e manter a arquitetura organizada à medida que a plataforma evolui.
 
 Versão: 1.0
 Status: Em elaboração
@@ -15,7 +15,7 @@ Definir a estrutura lógica da plataforma antes da implementação, organizando 
 
 # Visão Geral
 
-A Veltis Studio será composta por módulos independentes que compartilham uma mesma base arquitetural.
+A Orizon Studio será composta por módulos independentes que compartilham uma mesma base arquitetural.
 
 ```text
 Marketing
@@ -256,4 +256,4 @@ Exemplos:
 
 # Considerações Finais
 
-A modelagem modular da Veltis Studio permitirá que a plataforma evolua de forma organizada, mantendo baixo acoplamento entre os componentes e facilitando a manutenção, os testes e futuras expansões.
+A modelagem modular da Orizon Studio permitirá que a plataforma evolua de forma organizada, mantendo baixo acoplamento entre os componentes e facilitando a manutenção, os testes e futuras expansões.

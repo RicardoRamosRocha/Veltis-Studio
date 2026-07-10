@@ -9,7 +9,7 @@ Status: Em elaboração
 
 # Introdução
 
-O Roadmap da Veltis Studio define a visão estratégica do produto para os próximos anos.
+O Roadmap da Orizon Studio define a visão estratégica do produto para os próximos anos.
 
 Mais do que listar funcionalidades, este documento demonstra a direção da empresa, os objetivos de cada fase e os resultados esperados.
 
@@ -295,7 +295,7 @@ Se a resposta for "não" para qualquer uma delas, a funcionalidade deverá ser r
 
 # Visão de Futuro
 
-A Veltis Studio não pretende ser apenas um software.
+A Orizon Studio não pretende ser apenas um software.
 
 Nosso objetivo é construir o principal ecossistema digital para engenharia, arquitetura e design.
 
@@ -303,7 +303,7 @@ Queremos conectar profissionais, clientes, fornecedores, inteligência artificia
 
 Acreditamos que o futuro da construção será cada vez mais digital, colaborativo e orientado por dados.
 
-A Veltis Studio será uma das protagonistas dessa transformação.
+A Orizon Studio será uma das protagonistas dessa transformação.
 
 ---
 

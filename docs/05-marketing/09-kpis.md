@@ -1,6 +1,6 @@
 # KPIs
 
-> Os KPIs (Key Performance Indicators) permitirão acompanhar a evolução da Veltis Studio e medir se as estratégias de marketing, vendas e retenção estão produzindo os resultados esperados.
+> Os KPIs (Key Performance Indicators) permitirão acompanhar a evolução da Orizon Studio e medir se as estratégias de marketing, vendas e retenção estão produzindo os resultados esperados.
 
 Versão: 1.0
 Status: Em elaboração
@@ -246,6 +246,6 @@ Dependendo da natureza de cada métrica.
 
 # Considerações Finais
 
-Os KPIs representarão o principal mecanismo para avaliação do crescimento da Veltis Studio.
+Os KPIs representarão o principal mecanismo para avaliação do crescimento da Orizon Studio.
 
 Todas as estratégias futuras deverão ser analisadas com base nestes indicadores, garantindo decisões mais precisas e sustentáveis.

@@ -1,6 +1,6 @@
 # UI Guidelines
 
-> Este documento estabelece as diretrizes para construção das interfaces da Veltis Studio. Seu objetivo é garantir consistência visual, excelente experiência do usuário e padronização em todas as telas da plataforma.
+> Este documento estabelece as diretrizes para construção das interfaces da Orizon Studio. Seu objetivo é garantir consistência visual, excelente experiência do usuário e padronização em todas as telas da plataforma.
 
 Versão: 1.0
 Status: Em elaboração
@@ -9,7 +9,7 @@ Status: Em elaboração
 
 # Objetivo
 
-Padronizar a construção das interfaces da Veltis Studio para que todos os módulos apresentem a mesma identidade visual, comportamento e organização.
+Padronizar a construção das interfaces da Orizon Studio para que todos os módulos apresentem a mesma identidade visual, comportamento e organização.
 
 Toda nova tela deverá seguir estas diretrizes.
 
@@ -371,7 +371,7 @@ A IA deverá acelerar o trabalho, sem substituir o controle do usuário.
 
 # Considerações Finais
 
-As UI Guidelines representam o padrão oficial para construção das interfaces da Veltis Studio.
+As UI Guidelines representam o padrão oficial para construção das interfaces da Orizon Studio.
 
 Seguir estas diretrizes garantirá consistência visual, excelente experiência do usuário e maior produtividade durante o desenvolvimento.
 

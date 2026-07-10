@@ -1,4 +1,4 @@
-# Veltis Studio
+# Orizon Studio
 
 > Transformando ideias em projetos. Projetos em negócios.
 
@@ -12,7 +12,7 @@ Status: Em elaboração
 
 ## Introdução
 
-A Veltis Studio nasceu com um propósito claro: transformar a maneira como escritórios de engenharia, arquitetura e design conquistam clientes, organizam seus processos e entregam projetos.
+A Orizon Studio nasceu com um propósito claro: transformar a maneira como escritórios de engenharia, arquitetura e design conquistam clientes, organizam seus processos e entregam projetos.
 
 Hoje, a maioria dos escritórios utiliza diversas ferramentas desconectadas:
 
@@ -28,7 +28,7 @@ Embora todas essas ferramentas sejam úteis individualmente, elas não trabalham
 
 O resultado é um processo comercial lento, pouca previsibilidade, perda de informações e dificuldade para acompanhar cada cliente durante sua jornada.
 
-A Veltis Studio surge para resolver esse problema.
+A Orizon Studio surge para resolver esse problema.
 
 Nossa proposta é reunir toda a jornada do cliente em uma única plataforma moderna, inteligente e preparada para crescer junto com o escritório.
 
@@ -54,7 +54,7 @@ Percebemos que o verdadeiro problema não era produzir projetos.
 
 O problema era administrar todo o processo até o fechamento do contrato.
 
-Foi nesse momento que nasceu a ideia da Veltis Studio.
+Foi nesse momento que nasceu a ideia da Orizon Studio.
 
 ---
 
@@ -111,7 +111,7 @@ Consequências:
 
 # Nossa Solução
 
-A Veltis Studio transforma esse processo em uma experiência digital.
+A Orizon Studio transforma esse processo em uma experiência digital.
 
 Instagram
 
@@ -159,9 +159,9 @@ Todo o fluxo acontece em uma única plataforma.
 
 ---
 
-# O que é a Veltis Studio
+# O que é a Orizon Studio
 
-A Veltis Studio é uma plataforma SaaS para escritórios de engenharia, arquitetura e design.
+A Orizon Studio é uma plataforma SaaS para escritórios de engenharia, arquitetura e design.
 
 Ela combina:
 
@@ -205,13 +205,13 @@ Ser a principal plataforma da América Latina para aquisição de clientes e ges
 
 # Posicionamento
 
-A Veltis Studio não é apenas um software.
+A Orizon Studio não é apenas um software.
 
 Também não é apenas um CRM.
 
 Também não é apenas uma plataforma de projetos.
 
-A Veltis Studio é uma plataforma de crescimento.
+A Orizon Studio é uma plataforma de crescimento.
 
 Ela ajuda escritórios a vender mais, organizar melhor seus processos e entregar uma experiência superior aos seus clientes.
 
@@ -330,7 +330,7 @@ Ela será uma assistente inteligente.
 
 # Visão de Longo Prazo
 
-A Veltis Studio será muito mais do que um sistema.
+A Orizon Studio será muito mais do que um sistema.
 
 Nosso objetivo é construir o principal ecossistema digital para escritórios de engenharia, arquitetura e design da América Latina.
 
@@ -354,7 +354,7 @@ Acreditamos que grandes escritórios não crescem apenas porque fazem excelentes
 
 Eles crescem porque conseguem oferecer uma experiência diferenciada desde o primeiro contato.
 
-A Veltis Studio existe para tornar essa experiência possível.
+A Orizon Studio existe para tornar essa experiência possível.
 
 Mais do que desenvolver software, queremos construir uma plataforma capaz de impulsionar o crescimento de milhares de profissionais e empresas.
 

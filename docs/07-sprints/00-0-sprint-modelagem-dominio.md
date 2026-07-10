@@ -1,6 +1,6 @@
 # Sprint 0.0 — Modelagem do Domínio
 
-> Esta sprint tem como objetivo definir a base conceitual do domínio da Veltis Studio antes da implementação em ASP.NET Core.
+> Esta sprint tem como objetivo definir a base conceitual do domínio da Orizon Studio antes da implementação em ASP.NET Core.
 
 Versão: 1.0  
 Status: Planejada

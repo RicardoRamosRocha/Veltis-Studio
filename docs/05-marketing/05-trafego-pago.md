@@ -1,6 +1,6 @@
 # Tráfego Pago
 
-> O tráfego pago será um dos principais canais de aquisição de clientes da Veltis Studio. Este documento define as estratégias para criação, otimização e acompanhamento das campanhas de mídia paga.
+> O tráfego pago será um dos principais canais de aquisição de clientes da Orizon Studio. Este documento define as estratégias para criação, otimização e acompanhamento das campanhas de mídia paga.
 
 Versão: 1.0
 Status: Em elaboração
@@ -176,6 +176,6 @@ A IA poderá auxiliar em:
 
 # Considerações Finais
 
-O tráfego pago será tratado como investimento estratégico para acelerar o crescimento da Veltis Studio.
+O tráfego pago será tratado como investimento estratégico para acelerar o crescimento da Orizon Studio.
 
 Todas as campanhas deverão ser orientadas por dados, buscando aumentar a conversão e reduzir o custo de aquisição de clientes.

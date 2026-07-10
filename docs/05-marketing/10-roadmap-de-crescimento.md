@@ -1,6 +1,6 @@
 # Roadmap de Crescimento
 
-> O Roadmap de Crescimento define a estratégia comercial da Veltis Studio desde os primeiros clientes até sua consolidação como referência no mercado de tecnologia para escritórios de engenharia, arquitetura e design.
+> O Roadmap de Crescimento define a estratégia comercial da Orizon Studio desde os primeiros clientes até sua consolidação como referência no mercado de tecnologia para escritórios de engenharia, arquitetura e design.
 
 Versão: 1.0
 Status: Em elaboração
@@ -176,16 +176,16 @@ Prioridades:
 
 ---
 
-# Ecossistema Veltis
+# Ecossistema Orizon
 
-No longo prazo, a Veltis Studio fará parte de um ecossistema maior de soluções.
+No longo prazo, a Orizon Studio fará parte de um ecossistema maior de soluções.
 
 Exemplos:
 
-- Veltis Studio
-- Veltis AI
-- Veltis Workspace
-- Veltis Odonto
+- Orizon Studio
+- Orizon AI
+- Orizon Workspace
+- Orizon Odonto
 - Novas plataformas especializadas
 
 Todos os produtos compartilharão padrões de arquitetura, design e experiência do usuário.
@@ -194,7 +194,7 @@ Todos os produtos compartilharão padrões de arquitetura, design e experiência
 
 # Visão de Longo Prazo
 
-A Veltis não deseja apenas vender software.
+A Orizon não deseja apenas vender software.
 
 Nosso objetivo é construir uma empresa de tecnologia reconhecida pela excelência em seus produtos e pela capacidade de impulsionar o crescimento dos negócios de seus clientes.
 
@@ -204,4 +204,4 @@ Nosso objetivo é construir uma empresa de tecnologia reconhecida pela excelênc
 
 O Roadmap de Crescimento deverá ser revisado periodicamente para refletir a evolução da plataforma, do mercado e das necessidades dos clientes.
 
-Cada etapa concluída servirá de base para a próxima, permitindo que a Veltis Studio cresça de forma organizada, sustentável e preparada para se tornar uma referência no mercado de tecnologia para engenharia, arquitetura e design.
+Cada etapa concluída servirá de base para a próxima, permitindo que a Orizon Studio cresça de forma organizada, sustentável e preparada para se tornar uma referência no mercado de tecnologia para engenharia, arquitetura e design.

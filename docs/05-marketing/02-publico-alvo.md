@@ -1,6 +1,6 @@
 # Público-Alvo
 
-> Este documento define os perfis de clientes que a Veltis Studio pretende atender, permitindo direcionar o desenvolvimento do produto e as estratégias de marketing para quem realmente gera valor para a plataforma.
+> Este documento define os perfis de clientes que a Orizon Studio pretende atender, permitindo direcionar o desenvolvimento do produto e as estratégias de marketing para quem realmente gera valor para a plataforma.
 
 Versão: 1.0
 Status: Em elaboração
@@ -9,7 +9,7 @@ Status: Em elaboração
 
 # Objetivo
 
-Identificar os segmentos de mercado mais aderentes à proposta da Veltis Studio.
+Identificar os segmentos de mercado mais aderentes à proposta da Orizon Studio.
 
 ---
 

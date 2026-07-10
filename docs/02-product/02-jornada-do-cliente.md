@@ -9,7 +9,7 @@ Status: Em elaboração
 
 # Objetivo
 
-Mapear toda a experiência do cliente para orientar o desenvolvimento da Veltis Studio.
+Mapear toda a experiência do cliente para orientar o desenvolvimento da Orizon Studio.
 
 Este documento servirá como base para:
 
@@ -434,7 +434,7 @@ Nenhum documento aprovado poderá ser alterado sem geração de nova versão.
 
 # Considerações Finais
 
-A jornada do cliente representa o principal diferencial estratégico da Veltis Studio.
+A jornada do cliente representa o principal diferencial estratégico da Orizon Studio.
 
 Mais do que oferecer um sistema de gestão, a plataforma deverá proporcionar uma experiência completa para profissionais e clientes, integrando marketing, atendimento, gestão comercial, execução de projetos e relacionamento pós-venda em um único ambiente.
 

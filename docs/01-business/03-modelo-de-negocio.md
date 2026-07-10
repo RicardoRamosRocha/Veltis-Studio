@@ -9,7 +9,7 @@ Status: Em elaboração
 
 # Introdução
 
-A Veltis Studio nasce como uma empresa de tecnologia no modelo SaaS (Software as a Service).
+A Orizon Studio nasce como uma empresa de tecnologia no modelo SaaS (Software as a Service).
 
 Nosso objetivo não é vender licenças de software.
 
@@ -279,7 +279,7 @@ Esses indicadores orientarão todas as decisões estratégicas.
 
 A maioria dos concorrentes vende gestão.
 
-A Veltis Studio vende crescimento.
+A Orizon Studio vende crescimento.
 
 Enquanto outros organizam o trabalho depois que o cliente chega, nós ajudamos o escritório a conquistar esse cliente.
 
@@ -304,7 +304,7 @@ Arquitetura preparada para:
 
 # Visão de Longo Prazo
 
-A Veltis Studio será mais do que um software.
+A Orizon Studio será mais do que um software.
 
 Será um ecossistema de soluções para profissionais da construção.
 

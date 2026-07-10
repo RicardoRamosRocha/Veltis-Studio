@@ -1,6 +1,6 @@
 # Arquitetura da API
 
-> A API da Veltis Studio será responsável por disponibilizar os serviços da plataforma para aplicações externas, integrações e futuros aplicativos móveis.
+> A API da Orizon Studio será responsável por disponibilizar os serviços da plataforma para aplicações externas, integrações e futuros aplicativos móveis.
 
 Versão: 1.0
 Status: Em elaboração
@@ -252,4 +252,4 @@ A arquitetura deverá permitir:
 
 # Considerações Finais
 
-A API da Veltis Studio será construída como um componente estratégico da plataforma, permitindo que todo o ecossistema de aplicações compartilhe a mesma lógica de negócio e os mesmos padrões de segurança, garantindo integração consistente e preparada para o crescimento do produto.
+A API da Orizon Studio será construída como um componente estratégico da plataforma, permitindo que todo o ecossistema de aplicações compartilhe a mesma lógica de negócio e os mesmos padrões de segurança, garantindo integração consistente e preparada para o crescimento do produto.

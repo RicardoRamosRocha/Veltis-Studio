@@ -1,6 +1,6 @@
 # Project References
 
-> Este documento define a arquitetura de dependências entre os projetos da solução Veltis Studio.
+> Este documento define a arquitetura de dependências entre os projetos da solução Orizon Studio.
 
 Versão: 1.0
 Status: Em elaboração
@@ -24,15 +24,15 @@ Nunca o contrário.
 # Estrutura da Solução
 
 ```text
-VeltisStudio.sln
+OrizonStudio.sln
 
 │
 
-├── VeltisStudio.Domain
-├── VeltisStudio.Application
-├── VeltisStudio.Infrastructure
-├── VeltisStudio.Web
-└── VeltisStudio.API
+├── OrizonStudio.Domain
+├── OrizonStudio.Application
+├── OrizonStudio.Infrastructure
+├── OrizonStudio.Web
+└── OrizonStudio.API
 ```
 
 ---
@@ -275,11 +275,11 @@ Novos projetos deverão respeitar esta arquitetura.
 Exemplos futuros:
 
 ```text
-VeltisStudio.Mobile
+OrizonStudio.Mobile
 
-VeltisStudio.Worker
+OrizonStudio.Worker
 
-VeltisStudio.BackgroundJobs
+OrizonStudio.BackgroundJobs
 ```
 
 Esses projetos utilizarão Application como principal ponto de entrada.

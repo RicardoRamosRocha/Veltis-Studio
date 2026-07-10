@@ -1,6 +1,6 @@
 # Sprint 0 — Fundação da Plataforma
 
-> Esta sprint tem como objetivo construir toda a infraestrutura técnica da Veltis Studio. Nenhuma funcionalidade de negócio será desenvolvida nesta etapa.
+> Esta sprint tem como objetivo construir toda a infraestrutura técnica da Orizon Studio. Nenhuma funcionalidade de negócio será desenvolvida nesta etapa.
 
 Versão: 1.0
 Status: Planejada

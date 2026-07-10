@@ -1,6 +1,6 @@
 # Arquitetura Multi-Tenant
 
-> A Veltis Studio será desenvolvida como uma plataforma SaaS Multi-Tenant, permitindo que diversos escritórios de engenharia, arquitetura e design utilizem a mesma aplicação de forma segura, independente e isolada.
+> A Orizon Studio será desenvolvida como uma plataforma SaaS Multi-Tenant, permitindo que diversos escritórios de engenharia, arquitetura e design utilizem a mesma aplicação de forma segura, independente e isolada.
 
 Versão: 1.0
 Status: Em elaboração
@@ -17,7 +17,7 @@ A arquitetura Multi-Tenant deverá ser transparente para o usuário final e apli
 
 # Conceito
 
-Cada escritório utilizará a Veltis Studio como se fosse um sistema exclusivo.
+Cada escritório utilizará a Orizon Studio como se fosse um sistema exclusivo.
 
 Embora todas as empresas compartilhem a mesma infraestrutura da aplicação, seus dados permanecerão completamente isolados.
 
@@ -25,7 +25,7 @@ Embora todas as empresas compartilhem a mesma infraestrutura da aplicação, seu
 
 # Modelo Adotado
 
-A Veltis Studio utilizará inicialmente o modelo:
+A Orizon Studio utilizará inicialmente o modelo:
 
 ## Banco Compartilhado
 
@@ -259,7 +259,7 @@ Durante o desenvolvimento deverão ser seguidas as seguintes diretrizes:
 
 # Considerações Finais
 
-A arquitetura Multi-Tenant é um dos pilares fundamentais da Veltis Studio.
+A arquitetura Multi-Tenant é um dos pilares fundamentais da Orizon Studio.
 
 Todo o desenvolvimento da plataforma deverá considerar o isolamento entre empresas como um requisito obrigatório, garantindo que cada escritório utilize a solução com total segurança, privacidade e independência.
 

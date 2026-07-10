@@ -1,6 +1,6 @@
 # MVP — Minimum Viable Product
 
-> O MVP (Minimum Viable Product) da Veltis Studio representa a primeira versão comercial da plataforma. Seu objetivo é validar o modelo de negócio, conquistar os primeiros clientes e criar uma base sólida para evolução contínua.
+> O MVP (Minimum Viable Product) da Orizon Studio representa a primeira versão comercial da plataforma. Seu objetivo é validar o modelo de negócio, conquistar os primeiros clientes e criar uma base sólida para evolução contínua.
 
 Versão: 1.0  
 Status: Em elaboração
@@ -288,7 +288,7 @@ Após o lançamento, o sucesso do MVP será acompanhado pelos seguintes indicado
 
 # Considerações Finais
 
-O MVP da Veltis Studio não busca entregar todas as funcionalidades imaginadas para a plataforma.
+O MVP da Orizon Studio não busca entregar todas as funcionalidades imaginadas para a plataforma.
 
 Seu objetivo é resolver os principais problemas dos profissionais de engenharia, arquitetura e design, permitindo validar rapidamente o produto com clientes reais.
 

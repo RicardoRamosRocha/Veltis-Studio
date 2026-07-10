@@ -1,6 +1,6 @@
 # Marketing de Conteúdo
 
-> O Marketing de Conteúdo será utilizado para educar o mercado, fortalecer a autoridade da Veltis Studio e gerar demanda de forma orgânica através da produção de conteúdo relevante.
+> O Marketing de Conteúdo será utilizado para educar o mercado, fortalecer a autoridade da Orizon Studio e gerar demanda de forma orgânica através da produção de conteúdo relevante.
 
 Versão: 1.0
 Status: Em elaboração
@@ -156,6 +156,6 @@ Todo conteúdo deverá ser:
 
 # Considerações Finais
 
-O Marketing de Conteúdo será um dos pilares de crescimento da Veltis Studio.
+O Marketing de Conteúdo será um dos pilares de crescimento da Orizon Studio.
 
 Mais do que divulgar a plataforma, nosso objetivo será educar o mercado, gerar confiança e construir uma marca reconhecida pela qualidade das informações que compartilha com seus clientes.

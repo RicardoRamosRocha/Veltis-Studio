@@ -11,7 +11,7 @@ Status: Em elaboração
 
 # Introdução
 
-O sucesso da Veltis Studio não dependerá apenas da qualidade do software.
+O sucesso da Orizon Studio não dependerá apenas da qualidade do software.
 
 Dependerá da capacidade de demonstrar valor para o cliente.
 
@@ -334,7 +334,7 @@ Mas através de tecnologia, organização, inteligência artificial e uma experi
 
 # Conclusão
 
-A Veltis Studio nasce para ser uma empresa de tecnologia orientada ao crescimento dos seus clientes.
+A Orizon Studio nasce para ser uma empresa de tecnologia orientada ao crescimento dos seus clientes.
 
 Cada funcionalidade, campanha de marketing e evolução do produto deverá contribuir para um único objetivo:
 

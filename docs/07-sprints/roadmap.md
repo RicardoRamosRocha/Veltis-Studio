@@ -1,6 +1,6 @@
 # Roadmap Geral
 
-> Este documento apresenta a visão macro da evolução da Veltis Studio, organizando as Sprints e as principais entregas planejadas para a plataforma.
+> Este documento apresenta a visão macro da evolução da Orizon Studio, organizando as Sprints e as principais entregas planejadas para a plataforma.
 
 Versão: 1.0
 Status: Planejamento
@@ -184,7 +184,7 @@ Preparar a plataforma para:
 
 # Filosofia
 
-A evolução da Veltis Studio seguirá três princípios:
+A evolução da Orizon Studio seguirá três princípios:
 
 - Crescimento sustentável.
 - Entregas frequentes.
@@ -196,7 +196,7 @@ Cada Sprint deverá ser concluída antes do início da próxima, evitando acúmu
 
 # Visão de Longo Prazo
 
-A Veltis Studio deverá evoluir para um ecossistema completo de gestão, marketing, relacionamento com clientes e Inteligência Artificial para escritórios de engenharia, arquitetura e design.
+A Orizon Studio deverá evoluir para um ecossistema completo de gestão, marketing, relacionamento com clientes e Inteligência Artificial para escritórios de engenharia, arquitetura e design.
 
 Mais do que um software, nosso objetivo é construir uma plataforma que ajude empresas a crescerem de forma organizada, previsível e sustentável.
 
@@ -204,7 +204,7 @@ Mais do que um software, nosso objetivo é construir uma plataforma que ajude em
 
 # Considerações Finais
 
-Este Roadmap representa a visão estratégica da evolução da Veltis Studio.
+Este Roadmap representa a visão estratégica da evolução da Orizon Studio.
 
 Ele deverá ser revisado periodicamente, considerando o feedback dos clientes, a evolução tecnológica e as oportunidades identificadas ao longo do desenvolvimento.
 

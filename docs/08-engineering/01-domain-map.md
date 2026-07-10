@@ -1,6 +1,6 @@
 # Domain Map
 
-> Este documento apresenta o mapa inicial do domínio da Veltis Studio, definindo os principais contextos, entidades e relacionamentos antes da implementação da solução ASP.NET Core.
+> Este documento apresenta o mapa inicial do domínio da Orizon Studio, definindo os principais contextos, entidades e relacionamentos antes da implementação da solução ASP.NET Core.
 
 Versão: 1.0  
 Status: Em elaboração
@@ -9,7 +9,7 @@ Status: Em elaboração
 
 # Objetivo
 
-Organizar o domínio da Veltis Studio de forma clara antes da implementação.
+Organizar o domínio da Orizon Studio de forma clara antes da implementação.
 
 Este documento servirá como base para:
 
@@ -24,7 +24,7 @@ Este documento servirá como base para:
 
 # Filosofia
 
-A Veltis Studio será construída com uma abordagem prática de DDD Lite.
+A Orizon Studio será construída com uma abordagem prática de DDD Lite.
 
 Não utilizaremos DDD de forma excessivamente acadêmica.
 
@@ -471,10 +471,10 @@ Tenancy
 
 # Organização Inicial no Código
 
-Dentro do projeto `VeltisStudio.Domain`, os contextos poderão ser organizados por pastas:
+Dentro do projeto `OrizonStudio.Domain`, os contextos poderão ser organizados por pastas:
 
 ```text
-VeltisStudio.Domain/
+OrizonStudio.Domain/
 ├── Common
 ├── Tenancy
 ├── Identity
@@ -501,7 +501,7 @@ Events
 
 # Decisão Arquitetural
 
-A Veltis Studio não começará com microsserviços.
+A Orizon Studio não começará com microsserviços.
 
 A plataforma será inicialmente um monólito modular.
 
@@ -517,7 +517,7 @@ Essa decisão permite:
 
 # Considerações Finais
 
-Este mapa de domínio representa a primeira visão estruturada do coração da Veltis Studio.
+Este mapa de domínio representa a primeira visão estruturada do coração da Orizon Studio.
 
 Ele não é definitivo.
 

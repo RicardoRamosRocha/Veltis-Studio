@@ -9,7 +9,7 @@ Status: Em elaboração
 
 # Introdução
 
-A Veltis Studio foi concebida para atender diferentes perfis de profissionais e clientes envolvidos na contratação e execução de projetos de engenharia, arquitetura e design.
+A Orizon Studio foi concebida para atender diferentes perfis de profissionais e clientes envolvidos na contratação e execução de projetos de engenharia, arquitetura e design.
 
 Cada persona possui necessidades específicas, desafios próprios e objetivos diferentes.
 
@@ -74,7 +74,7 @@ Equipe:
 
 ---
 
-## Como a Veltis Studio ajuda
+## Como a Orizon Studio ajuda
 
 - Landing Pages.
 - Biblioteca de Projetos.
@@ -270,7 +270,7 @@ Construir sua primeira casa.
 
 # Considerações
 
-Todas as funcionalidades da Veltis Studio deverão responder a uma pergunta fundamental:
+Todas as funcionalidades da Orizon Studio deverão responder a uma pergunta fundamental:
 
 **"Qual problema de qual persona estamos resolvendo?"**
 

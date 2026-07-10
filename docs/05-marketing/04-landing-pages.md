@@ -1,6 +1,6 @@
 # Landing Pages
 
-> As Landing Pages da Veltis Studio serão um dos principais canais de aquisição de clientes. Seu objetivo é transformar visitantes em Leads qualificados através de uma experiência moderna, rápida e focada em conversão.
+> As Landing Pages da Orizon Studio serão um dos principais canais de aquisição de clientes. Seu objetivo é transformar visitantes em Leads qualificados através de uma experiência moderna, rápida e focada em conversão.
 
 Versão: 1.0
 Status: Em elaboração
@@ -65,7 +65,7 @@ CTA Final
 
 A Hero Section deverá responder imediatamente:
 
-- O que é a Veltis Studio?
+- O que é a Orizon Studio?
 - Para quem ela é?
 - Qual problema resolve?
 
@@ -219,6 +219,6 @@ Exemplos:
 
 # Considerações Finais
 
-As Landing Pages da Veltis Studio serão construídas para comunicar valor, transmitir confiança e maximizar conversões.
+As Landing Pages da Orizon Studio serão construídas para comunicar valor, transmitir confiança e maximizar conversões.
 
 Cada página deverá reforçar o posicionamento da marca e demonstrar claramente como a plataforma ajuda escritórios de engenharia, arquitetura e design a conquistar mais clientes, organizar seus processos e crescer de forma sustentável.

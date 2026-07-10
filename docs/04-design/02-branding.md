@@ -1,6 +1,6 @@
 # Branding
 
-> O Branding da Veltis Studio define a identidade da marca, sua personalidade, posicionamento e diretrizes de comunicação. Mais do que uma identidade visual, este documento estabelece como a empresa deseja ser percebida por seus clientes.
+> O Branding da Orizon Studio define a identidade da marca, sua personalidade, posicionamento e diretrizes de comunicação. Mais do que uma identidade visual, este documento estabelece como a empresa deseja ser percebida por seus clientes.
 
 Versão: 1.0  
 Status: Em elaboração
@@ -11,7 +11,7 @@ Status: Em elaboração
 
 Construir uma marca forte, memorável e reconhecida pela qualidade de seus produtos e pela excelência na experiência oferecida aos clientes.
 
-Toda comunicação da Veltis deverá seguir as diretrizes estabelecidas neste documento.
+Toda comunicação da Orizon deverá seguir as diretrizes estabelecidas neste documento.
 
 ---
 
@@ -19,7 +19,7 @@ Toda comunicação da Veltis deverá seguir as diretrizes estabelecidas neste do
 
 ## Nome
 
-**Veltis**
+**Orizon**
 
 Representa a empresa responsável pelo desenvolvimento de soluções tecnológicas para diferentes segmentos de mercado.
 
@@ -27,7 +27,7 @@ Representa a empresa responsável pelo desenvolvimento de soluções tecnológic
 
 ## Produto
 
-**Veltis Studio**
+**Orizon Studio**
 
 Plataforma SaaS para escritórios de engenharia, arquitetura e design, focada em aquisição de clientes, gestão comercial e gerenciamento de projetos.
 
@@ -43,7 +43,7 @@ Nosso foco não é apenas desenvolver software, mas contribuir para que nossos c
 
 # Posicionamento
 
-A Veltis Studio não será conhecida como:
+A Orizon Studio não será conhecida como:
 
 > "Mais um software para engenheiros."
 
@@ -55,7 +55,7 @@ Nosso posicionamento será:
 
 # Personalidade da Marca
 
-A Veltis deverá transmitir:
+A Orizon deverá transmitir:
 
 - Confiança
 - Inovação
@@ -225,7 +225,7 @@ Cada interação deverá reforçar:
 
 # Diferenciação
 
-A Veltis Studio buscará se diferenciar através de:
+A Orizon Studio buscará se diferenciar através de:
 
 - Interface premium.
 - Experiência do usuário.
@@ -257,7 +257,7 @@ A consistência será um dos principais fatores para fortalecer a identidade da 
 
 # Evolução da Marca
 
-A identidade da Veltis poderá evoluir ao longo do tempo.
+A identidade da Orizon poderá evoluir ao longo do tempo.
 
 Entretanto, mudanças deverão preservar:
 
@@ -272,8 +272,8 @@ Toda evolução deverá ser gradual e orientada por critérios estratégicos.
 
 # Considerações Finais
 
-A marca Veltis representa muito mais do que uma identidade visual.
+A marca Orizon representa muito mais do que uma identidade visual.
 
 Ela simboliza nosso compromisso com a inovação, a qualidade e a excelência na criação de soluções tecnológicas para profissionais de engenharia, arquitetura e design.
 
-Cada elemento visual, textual e funcional deverá contribuir para que a Veltis Studio seja reconhecida como uma plataforma premium, moderna e confiável, capaz de impulsionar o crescimento de seus clientes.
+Cada elemento visual, textual e funcional deverá contribuir para que a Orizon Studio seja reconhecida como uma plataforma premium, moderna e confiável, capaz de impulsionar o crescimento de seus clientes.

@@ -1,6 +1,6 @@
 <div align="center">
 
-# Veltis Studio
+# Orizon Studio
 
 ### The Growth Platform for Engineering, Architecture & Design Firms
 
@@ -26,19 +26,19 @@
 
 ## More than project management
 
-**Veltis Studio is not just another software for engineers.**
+**Orizon Studio is not just another software for engineers.**
 
 It is a modern SaaS platform created to help engineering, architecture and design firms attract more clients, organize projects and grow through technology, automation and Artificial Intelligence.
 
 Traditional engineering software manages projects.
 
-**Veltis Studio helps engineering firms grow.**
+**Orizon Studio helps engineering firms grow.**
 
 ---
 
-## What is Veltis Studio?
+## What is Orizon Studio?
 
-Veltis Studio is a business growth platform for technical offices and professional studios.
+Orizon Studio is a business growth platform for technical offices and professional studios.
 
 It combines:
 
@@ -108,7 +108,7 @@ Growth Engine
 
 ---
 
-## Why Veltis Studio exists
+## Why Orizon Studio exists
 
 Most engineering and architecture offices still depend on:
 
@@ -119,7 +119,7 @@ Most engineering and architecture offices still depend on:
 - Incomplete briefings
 - Unstructured commercial processes
 
-Veltis Studio exists to transform this fragmented workflow into a professional, organized and growth-oriented experience.
+Orizon Studio exists to transform this fragmented workflow into a professional, organized and growth-oriented experience.
 
 ---
 
@@ -143,19 +143,19 @@ Veltis Studio exists to transform this fragmented workflow into a professional, 
 ```text
 src/
 │
-├── VeltisStudio.Domain
+├── OrizonStudio.Domain
 │   └── Business rules, entities and core domain
 │
-├── VeltisStudio.Application
+├── OrizonStudio.Application
 │   └── Use cases, services, DTOs and validations
 │
-├── VeltisStudio.Infrastructure
+├── OrizonStudio.Infrastructure
 │   └── Database, repositories and external services
 │
-├── VeltisStudio.Web
+├── OrizonStudio.Web
 │   └── MVC web application and admin interface
 │
-└── VeltisStudio.API
+└── OrizonStudio.API
     └── REST API for integrations and future apps
 ```
 
@@ -204,7 +204,7 @@ docs/
 > **We don't build software.**  
 > **We build growth platforms.**
 
-Veltis Studio follows a simple but strong engineering principle:
+Orizon Studio follows a simple but strong engineering principle:
 
 ```text
 Documentation
@@ -228,7 +228,7 @@ The goal is to build a platform that is simple enough to launch, strong enough t
 
 ## Development Status
 
-Veltis Studio is currently in the **planning and foundation phase**.
+Orizon Studio is currently in the **planning and foundation phase**.
 
 The next engineering step is:
 
@@ -239,20 +239,20 @@ Sprint 0.1 — ASP.NET Core Solution Foundation
 This will create:
 
 ```text
-VeltisStudio.sln
+OrizonStudio.sln
 src/
-├── VeltisStudio.Domain
-├── VeltisStudio.Application
-├── VeltisStudio.Infrastructure
-├── VeltisStudio.Web
-└── VeltisStudio.API
+├── OrizonStudio.Domain
+├── OrizonStudio.Application
+├── OrizonStudio.Infrastructure
+├── OrizonStudio.Web
+└── OrizonStudio.API
 ```
 
 ---
 
 ## Long-Term Vision
 
-Veltis Studio aims to become a complete ecosystem for engineering, architecture and design firms.
+Orizon Studio aims to become a complete ecosystem for engineering, architecture and design firms.
 
 The long-term goal is to help companies:
 
@@ -269,13 +269,13 @@ The long-term goal is to help companies:
 ## Author
 
 Created by **Ricardo Ramos da Rocha**  
-Part of the **Veltis** ecosystem.
+Part of the **Orizon** ecosystem.
 
 ---
 
 <div align="center">
 
-**Veltis Studio**  
+**Orizon Studio**  
 *Technology that helps engineering firms grow.*
 
 </div>

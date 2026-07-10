@@ -1,6 +1,6 @@
 # Funil de Vendas
 
-> O funil de vendas da Veltis Studio representa toda a jornada do potencial cliente, desde o primeiro contato com a marca até sua fidelização. Este documento orienta as estratégias de aquisição, conversão e retenção de clientes.
+> O funil de vendas da Orizon Studio representa toda a jornada do potencial cliente, desde o primeiro contato com a marca até sua fidelização. Este documento orienta as estratégias de aquisição, conversão e retenção de clientes.
 
 Versão: 1.0
 Status: Em elaboração
@@ -9,7 +9,7 @@ Status: Em elaboração
 
 # Objetivo
 
-Definir o processo comercial da Veltis Studio e compreender como os visitantes se tornam clientes da plataforma.
+Definir o processo comercial da Orizon Studio e compreender como os visitantes se tornam clientes da plataforma.
 
 O funil também servirá de referência para o desenvolvimento dos módulos de Marketing, CRM e Inteligência Artificial.
 
@@ -255,6 +255,6 @@ Exemplos:
 
 # Considerações Finais
 
-O funil de vendas da Veltis Studio será continuamente analisado e otimizado.
+O funil de vendas da Orizon Studio será continuamente analisado e otimizado.
 
 Cada etapa deverá reduzir atritos, aumentar a conversão e proporcionar uma experiência de compra simples, profissional e orientada ao sucesso do cliente.

@@ -1,6 +1,6 @@
 # Deploy
 
-> Este documento define o processo oficial de publicação da Veltis Studio, desde o ambiente de desenvolvimento até a produção, garantindo consistência, segurança e previsibilidade em todas as implantações.
+> Este documento define o processo oficial de publicação da Orizon Studio, desde o ambiente de desenvolvimento até a produção, garantindo consistência, segurança e previsibilidade em todas as implantações.
 
 Versão: 1.0
 Status: Em elaboração
@@ -257,4 +257,4 @@ No futuro a plataforma deverá utilizar pipelines automatizados para:
 
 O processo de deploy deverá ser simples, seguro e repetível.
 
-Toda publicação deverá seguir este padrão, garantindo estabilidade para os clientes da Veltis Studio.
+Toda publicação deverá seguir este padrão, garantindo estabilidade para os clientes da Orizon Studio.

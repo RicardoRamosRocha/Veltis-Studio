@@ -1,6 +1,6 @@
 # Sprint 5 — Dashboard Executivo
 
-> Esta sprint será responsável pela construção dos painéis estratégicos da Veltis Studio, permitindo acompanhar indicadores em tempo real e apoiar decisões baseadas em dados.
+> Esta sprint será responsável pela construção dos painéis estratégicos da Orizon Studio, permitindo acompanhar indicadores em tempo real e apoiar decisões baseadas em dados.
 
 Versão: 1.0
 Status: Planejada

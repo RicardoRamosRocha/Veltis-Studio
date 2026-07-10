@@ -1,6 +1,6 @@
 # Requisitos do Sistema
 
-> Este documento descreve os requisitos funcionais e não funcionais da Veltis Studio, servindo como referência para o desenvolvimento, testes e evolução da plataforma.
+> Este documento descreve os requisitos funcionais e não funcionais da Orizon Studio, servindo como referência para o desenvolvimento, testes e evolução da plataforma.
 
 Versão: 1.0  
 Status: Em elaboração
@@ -335,7 +335,7 @@ Sempre que um novo módulo for criado, seus requisitos deverão ser incorporados
 
 # Considerações Finais
 
-Este documento representa a base funcional e técnica da Veltis Studio.
+Este documento representa a base funcional e técnica da Orizon Studio.
 
 Os requisitos aqui descritos deverão orientar o desenvolvimento de todos os módulos da plataforma, garantindo consistência, qualidade e alinhamento com a visão do produto.
 

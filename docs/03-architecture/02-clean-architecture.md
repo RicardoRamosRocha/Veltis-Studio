@@ -1,6 +1,6 @@
 # Clean Architecture
 
-> A Veltis Studio adotará a Clean Architecture como padrão para organização do código, separação de responsabilidades e evolução da plataforma.
+> A Orizon Studio adotará a Clean Architecture como padrão para organização do código, separação de responsabilidades e evolução da plataforma.
 
 Versão: 1.0
 Status: Em elaboração
@@ -37,15 +37,15 @@ A solução será composta pelos seguintes projetos.
 ```text
 src/
 
-VeltisStudio.Domain
+OrizonStudio.Domain
 
-VeltisStudio.Application
+OrizonStudio.Application
 
-VeltisStudio.Infrastructure
+OrizonStudio.Infrastructure
 
-VeltisStudio.Web
+OrizonStudio.Web
 
-VeltisStudio.API
+OrizonStudio.API
 ```
 
 Cada projeto possuirá responsabilidades específicas.
@@ -305,7 +305,7 @@ A evolução da plataforma deverá ocorrer sem necessidade de reestruturações 
 
 # Considerações Finais
 
-A Clean Architecture será o padrão oficial da Veltis Studio.
+A Clean Architecture será o padrão oficial da Orizon Studio.
 
 Toda implementação deverá respeitar a separação de responsabilidades definida neste documento.
 

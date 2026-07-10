@@ -1,6 +1,6 @@
 # Visão Geral da Arquitetura
 
-> A arquitetura da Veltis Studio foi projetada para suportar crescimento contínuo, alta escalabilidade, segurança e facilidade de manutenção, utilizando tecnologias modernas e boas práticas de engenharia de software.
+> A arquitetura da Orizon Studio foi projetada para suportar crescimento contínuo, alta escalabilidade, segurança e facilidade de manutenção, utilizando tecnologias modernas e boas práticas de engenharia de software.
 
 Versão: 1.0  
 Status: Em elaboração
@@ -9,7 +9,7 @@ Status: Em elaboração
 
 # Objetivo
 
-Definir a arquitetura técnica da plataforma, estabelecendo os princípios, tecnologias e diretrizes que orientarão todo o desenvolvimento da Veltis Studio.
+Definir a arquitetura técnica da plataforma, estabelecendo os princípios, tecnologias e diretrizes que orientarão todo o desenvolvimento da Orizon Studio.
 
 Esta arquitetura deverá permitir que a plataforma evolua de um MVP para um produto SaaS robusto, preparado para milhares de empresas utilizando o sistema simultaneamente.
 
@@ -17,7 +17,7 @@ Esta arquitetura deverá permitir que a plataforma evolua de um MVP para um prod
 
 # Princípios Arquiteturais
 
-A arquitetura da Veltis Studio será baseada nos seguintes princípios:
+A arquitetura da Orizon Studio será baseada nos seguintes princípios:
 
 - Simplicidade
 - Escalabilidade
@@ -129,15 +129,15 @@ A solução será organizada em projetos independentes.
 ```text
 src/
 
-VeltisStudio.Domain
+OrizonStudio.Domain
 
-VeltisStudio.Application
+OrizonStudio.Application
 
-VeltisStudio.Infrastructure
+OrizonStudio.Infrastructure
 
-VeltisStudio.Web
+OrizonStudio.Web
 
-VeltisStudio.API
+OrizonStudio.API
 ```
 
 Cada projeto possuirá responsabilidades bem definidas.
@@ -341,13 +341,13 @@ Marketplace
 
 ↓
 
-Ecossistema Veltis
+Ecossistema Orizon
 ```
 
 ---
 
 # Considerações Finais
 
-A arquitetura da Veltis Studio foi concebida para suportar um produto SaaS moderno, preparado para crescer de forma sustentável sem comprometer desempenho, organização ou qualidade do código.
+A arquitetura da Orizon Studio foi concebida para suportar um produto SaaS moderno, preparado para crescer de forma sustentável sem comprometer desempenho, organização ou qualidade do código.
 
 Toda decisão técnica futura deverá respeitar os princípios estabelecidos neste documento, garantindo consistência entre os módulos, facilidade de manutenção e capacidade de evolução da plataforma ao longo dos próximos anos.

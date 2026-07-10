@@ -1,6 +1,6 @@
 # Sprint 1 — Marketing e Captação de Clientes
 
-> Esta sprint representa o início do desenvolvimento das funcionalidades que diferenciam a Veltis Studio no mercado. O foco será construir a jornada de aquisição de clientes, antes mesmo dos módulos tradicionais de gestão.
+> Esta sprint representa o início do desenvolvimento das funcionalidades que diferenciam a Orizon Studio no mercado. O foco será construir a jornada de aquisição de clientes, antes mesmo dos módulos tradicionais de gestão.
 
 Versão: 1.0
 Status: Planejada

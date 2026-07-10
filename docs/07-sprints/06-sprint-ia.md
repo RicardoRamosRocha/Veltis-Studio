@@ -1,6 +1,6 @@
 # Sprint 6 — Inteligência Artificial
 
-> Esta sprint consolida a camada de Inteligência Artificial da Veltis Studio. A IA será utilizada como assistente do usuário, automatizando tarefas repetitivas e auxiliando na tomada de decisões, sem substituir o controle humano.
+> Esta sprint consolida a camada de Inteligência Artificial da Orizon Studio. A IA será utilizada como assistente do usuário, automatizando tarefas repetitivas e auxiliando na tomada de decisões, sem substituir o controle humano.
 
 Versão: 1.0
 Status: Planejada
@@ -152,7 +152,7 @@ Toda utilização da IA deverá:
 
 # Entregáveis
 
-Ao final desta Sprint, a Veltis Studio contará com uma camada de Inteligência Artificial integrada aos principais módulos da plataforma, proporcionando ganho de produtividade e diferenciação competitiva.
+Ao final desta Sprint, a Orizon Studio contará com uma camada de Inteligência Artificial integrada aos principais módulos da plataforma, proporcionando ganho de produtividade e diferenciação competitiva.
 
 ---
 

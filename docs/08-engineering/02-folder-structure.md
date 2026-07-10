@@ -1,6 +1,6 @@
 # Folder Structure
 
-> Este documento define a organização oficial das pastas da Veltis Studio, estabelecendo um padrão único para toda a solução.
+> Este documento define a organização oficial das pastas da Orizon Studio, estabelecendo um padrão único para toda a solução.
 
 Versão: 1.0
 Status: Em elaboração
@@ -23,7 +23,7 @@ Uma organização consistente facilita:
 # Estrutura Geral
 
 ```text
-Veltis-Studio
+Orizon-Studio
 │
 ├── assets/
 ├── database/
@@ -33,7 +33,7 @@ Veltis-Studio
 ├── tests/
 ├── README.md
 ├── CHANGELOG.md
-└── VeltisStudio.sln
+└── OrizonStudio.sln
 ```
 
 ---
@@ -129,15 +129,15 @@ Código da aplicação.
 ```text
 src/
 
-VeltisStudio.Domain
+OrizonStudio.Domain
 
-VeltisStudio.Application
+OrizonStudio.Application
 
-VeltisStudio.Infrastructure
+OrizonStudio.Infrastructure
 
-VeltisStudio.Web
+OrizonStudio.Web
 
-VeltisStudio.API
+OrizonStudio.API
 ```
 
 ---
@@ -475,4 +475,4 @@ sem um propósito claramente definido.
 
 Esta estrutura deverá permanecer estável durante toda a evolução da plataforma.
 
-A organização consistente facilitará a manutenção do código, reduzirá a complexidade e permitirá que a Veltis Studio cresça sem perder qualidade arquitetural.
+A organização consistente facilitará a manutenção do código, reduzirá a complexidade e permitirá que a Orizon Studio cresça sem perder qualidade arquitetural.

@@ -1,4 +1,4 @@
-# Veltis Studio — GitHub Presentation Assets
+# Orizon Studio — GitHub Presentation Assets
 
 Esta pasta armazenará recursos visuais utilizados na apresentação inicial do GitHub.
 
@@ -17,7 +17,7 @@ Futuramente poderão ser adicionados:
 Nome sugerido:
 
 ```text
-veltis-studio-banner.png
+Orizon-studio-banner.png
 ```
 
 Tamanho sugerido:

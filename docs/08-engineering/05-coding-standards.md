@@ -1,6 +1,6 @@
 # Coding Standards
 
-> Este documento define os padrões de desenvolvimento utilizados pela Veltis Studio.
+> Este documento define os padrões de desenvolvimento utilizados pela Orizon Studio.
 
 Versão: 1.0
 Status: Em elaboração
@@ -314,6 +314,6 @@ Seguir a regra:
 
 # Considerações Finais
 
-Os padrões definidos neste documento deverão orientar todo o desenvolvimento da Veltis Studio.
+Os padrões definidos neste documento deverão orientar todo o desenvolvimento da Orizon Studio.
 
 A consistência do código é um ativo estratégico da plataforma e deverá ser preservada durante toda a evolução do projeto.

@@ -1,6 +1,6 @@
 # Redes Sociais
 
-> As redes sociais serão um dos principais canais de relacionamento da Veltis Studio com o mercado. Mais do que divulgar a plataforma, elas deverão educar, inspirar e fortalecer a autoridade da marca.
+> As redes sociais serão um dos principais canais de relacionamento da Orizon Studio com o mercado. Mais do que divulgar a plataforma, elas deverão educar, inspirar e fortalecer a autoridade da marca.
 
 Versão: 1.0
 Status: Em elaboração
@@ -136,7 +136,7 @@ Produzir conteúdos como:
 
 # Identidade Visual
 
-Todas as publicações deverão seguir o Branding da Veltis.
+Todas as publicações deverão seguir o Branding da Orizon.
 
 Características:
 
@@ -192,6 +192,6 @@ Acompanhar:
 
 # Considerações Finais
 
-As redes sociais serão utilizadas para fortalecer a marca Veltis Studio, gerar confiança e construir um relacionamento contínuo com profissionais de engenharia, arquitetura e design.
+As redes sociais serão utilizadas para fortalecer a marca Orizon Studio, gerar confiança e construir um relacionamento contínuo com profissionais de engenharia, arquitetura e design.
 
 Cada publicação deverá agregar valor ao público e reforçar o posicionamento da plataforma como referência em tecnologia e crescimento para escritórios técnicos.

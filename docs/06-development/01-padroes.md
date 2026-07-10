@@ -1,6 +1,6 @@
 # Padrões de Desenvolvimento
 
-> Este documento define os padrões técnicos que deverão ser seguidos durante o desenvolvimento da Veltis Studio, garantindo qualidade, organização, manutenibilidade e consistência em todo o código da plataforma.
+> Este documento define os padrões técnicos que deverão ser seguidos durante o desenvolvimento da Orizon Studio, garantindo qualidade, organização, manutenibilidade e consistência em todo o código da plataforma.
 
 Versão: 1.0  
 Status: Em elaboração
@@ -9,7 +9,7 @@ Status: Em elaboração
 
 # Objetivo
 
-Estabelecer um conjunto de boas práticas para o desenvolvimento da plataforma Veltis Studio.
+Estabelecer um conjunto de boas práticas para o desenvolvimento da plataforma Orizon Studio.
 
 Todo código produzido deverá seguir estes padrões.
 
@@ -309,6 +309,6 @@ Antes de concluir qualquer implementação, verificar:
 
 # Considerações Finais
 
-Os padrões definidos neste documento deverão orientar todo o desenvolvimento da Veltis Studio.
+Os padrões definidos neste documento deverão orientar todo o desenvolvimento da Orizon Studio.
 
 Seguir estes padrões garantirá uma base de código consistente, sustentável e preparada para evolução contínua.

@@ -1,6 +1,6 @@
 # Checklists
 
-> Este documento reúne os checklists oficiais utilizados durante o desenvolvimento da Veltis Studio, garantindo que todas as etapas sejam executadas de forma consistente antes de commits, releases e deploys.
+> Este documento reúne os checklists oficiais utilizados durante o desenvolvimento da Orizon Studio, garantindo que todas as etapas sejam executadas de forma consistente antes de commits, releases e deploys.
 
 Versão: 1.0
 Status: Em elaboração
@@ -186,6 +186,6 @@ Se alguma resposta for negativa, a entrega deverá ser reavaliada.
 
 # Considerações Finais
 
-Os checklists representam uma etapa obrigatória do processo de desenvolvimento da Veltis Studio.
+Os checklists representam uma etapa obrigatória do processo de desenvolvimento da Orizon Studio.
 
 Seguir estas verificações garantirá maior qualidade, estabilidade e previsibilidade durante a evolução da plataforma, reduzindo retrabalho e aumentando a confiança em cada nova entrega.

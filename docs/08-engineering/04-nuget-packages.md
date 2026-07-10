@@ -1,6 +1,6 @@
 # NuGet Packages
 
-> Este documento define os pacotes NuGet oficiais utilizados pela Veltis Studio.
+> Este documento define os pacotes NuGet oficiais utilizados pela Orizon Studio.
 
 Versão: 1.0
 Status: Em elaboração
@@ -296,6 +296,6 @@ Evitar atualizar todas as dependências ao mesmo tempo.
 
 # Considerações Finais
 
-A Veltis Studio deverá utilizar apenas as bibliotecas realmente necessárias.
+A Orizon Studio deverá utilizar apenas as bibliotecas realmente necessárias.
 
 A simplicidade da solução será um dos pilares da arquitetura, reduzindo riscos, facilitando manutenção e garantindo maior estabilidade ao longo do tempo.

@@ -1,6 +1,6 @@
 # Sprint 2 — CRM Comercial
 
-> Esta sprint será responsável pela construção do núcleo comercial da Veltis Studio, permitindo acompanhar Leads desde o primeiro contato até o fechamento do contrato.
+> Esta sprint será responsável pela construção do núcleo comercial da Orizon Studio, permitindo acompanhar Leads desde o primeiro contato até o fechamento do contrato.
 
 Versão: 1.0
 Status: Planejada

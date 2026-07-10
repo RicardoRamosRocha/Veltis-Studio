@@ -1,6 +1,6 @@
 # Development Roadmap
 
-> Este documento apresenta o roadmap técnico oficial da Veltis Studio, definindo a ordem de evolução da plataforma desde a fundação até os módulos mais avançados.
+> Este documento apresenta o roadmap técnico oficial da Orizon Studio, definindo a ordem de evolução da plataforma desde a fundação até os módulos mais avançados.
 
 Versão: 1.0
 Status: Em elaboração
@@ -19,7 +19,7 @@ Não desenvolver funcionalidades fora da ordem definida sem justificativa técni
 
 # Filosofia
 
-A evolução da Veltis Studio seguirá três princípios:
+A evolução da Orizon Studio seguirá três princípios:
 
 - Simplicidade
 - Qualidade
@@ -256,7 +256,7 @@ Entregas
 
 Objetivo
 
-Transformar a Veltis Studio em uma plataforma que auxilia ativamente o crescimento dos escritórios.
+Transformar a Orizon Studio em uma plataforma que auxilia ativamente o crescimento dos escritórios.
 
 Entregas
 
@@ -365,7 +365,7 @@ Toda alteração deverá ser documentada.
 
 # Visão de Longo Prazo
 
-A Veltis Studio deverá evoluir para uma plataforma completa de gestão, relacionamento, marketing e inteligência artificial para escritórios de engenharia, arquitetura e design.
+A Orizon Studio deverá evoluir para uma plataforma completa de gestão, relacionamento, marketing e inteligência artificial para escritórios de engenharia, arquitetura e design.
 
 O objetivo final não é apenas organizar processos.
 
@@ -375,6 +375,6 @@ O objetivo final não é apenas organizar processos.
 
 # Considerações Finais
 
-Este Roadmap representa a estratégia oficial de evolução técnica da Veltis Studio.
+Este Roadmap representa a estratégia oficial de evolução técnica da Orizon Studio.
 
 Ele deverá orientar todas as decisões de engenharia, garantindo que a plataforma cresça de forma consistente, mantendo qualidade, simplicidade e foco na entrega de valor para os clientes.

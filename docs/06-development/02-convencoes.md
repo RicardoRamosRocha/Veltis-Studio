@@ -1,6 +1,6 @@
 # Convenções
 
-> Este documento define as convenções de nomenclatura, organização, versionamento e colaboração que deverão ser seguidas durante o desenvolvimento da Veltis Studio.
+> Este documento define as convenções de nomenclatura, organização, versionamento e colaboração que deverão ser seguidas durante o desenvolvimento da Orizon Studio.
 
 Versão: 1.0  
 Status: Em elaboração
@@ -215,11 +215,11 @@ Estrutura prevista:
 
 ```text
 src/
-├── VeltisStudio.Domain
-├── VeltisStudio.Application
-├── VeltisStudio.Infrastructure
-├── VeltisStudio.Web
-└── VeltisStudio.API
+├── OrizonStudio.Domain
+├── OrizonStudio.Application
+├── OrizonStudio.Infrastructure
+├── OrizonStudio.Web
+└── OrizonStudio.API
 ```
 
 ---
@@ -227,7 +227,7 @@ src/
 # Organização da Camada Domain
 
 ```text
-VeltisStudio.Domain/
+OrizonStudio.Domain/
 ├── Entities
 ├── Enums
 ├── ValueObjects
@@ -240,7 +240,7 @@ VeltisStudio.Domain/
 # Organização da Camada Application
 
 ```text
-VeltisStudio.Application/
+OrizonStudio.Application/
 ├── Interfaces
 ├── Services
 ├── DTOs
@@ -254,7 +254,7 @@ VeltisStudio.Application/
 # Organização da Camada Infrastructure
 
 ```text
-VeltisStudio.Infrastructure/
+OrizonStudio.Infrastructure/
 ├── Data
 ├── Repositories
 ├── Services
@@ -268,7 +268,7 @@ VeltisStudio.Infrastructure/
 # Organização da Camada Web
 
 ```text
-VeltisStudio.Web/
+OrizonStudio.Web/
 ├── Areas
 ├── Controllers
 ├── Views
@@ -282,7 +282,7 @@ VeltisStudio.Web/
 # Organização da Camada API
 
 ```text
-VeltisStudio.API/
+OrizonStudio.API/
 ├── Controllers
 ├── Middleware
 ├── Models
@@ -439,4 +439,4 @@ ClientPortal
 
 As convenções definidas neste documento deverão ser seguidas por todo o projeto.
 
-Manter padrões consistentes facilitará o desenvolvimento, a revisão de código, a manutenção e a entrada de novos colaboradores na Veltis Studio.
+Manter padrões consistentes facilitará o desenvolvimento, a revisão de código, a manutenção e a entrada de novos colaboradores na Orizon Studio.

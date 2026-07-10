@@ -1,6 +1,6 @@
 # Automações
 
-> As automações de marketing permitirão que a Veltis Studio mantenha relacionamento contínuo com Leads e clientes, reduzindo tarefas repetitivas e aumentando a eficiência dos processos comerciais.
+> As automações de marketing permitirão que a Orizon Studio mantenha relacionamento contínuo com Leads e clientes, reduzindo tarefas repetitivas e aumentando a eficiência dos processos comerciais.
 
 Versão: 1.0
 Status: Em elaboração
@@ -203,6 +203,6 @@ Futuramente poderão ser adicionadas integrações com:
 
 # Considerações Finais
 
-As automações serão um dos pilares da estratégia de crescimento da Veltis Studio.
+As automações serão um dos pilares da estratégia de crescimento da Orizon Studio.
 
 Ao automatizar tarefas repetitivas e personalizar a comunicação, a plataforma permitirá que profissionais concentrem seus esforços no relacionamento com os clientes e na entrega de projetos de qualidade, aumentando a produtividade e a eficiência comercial.

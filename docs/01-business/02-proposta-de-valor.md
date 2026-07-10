@@ -9,7 +9,7 @@ Status: Em elaboração
 
 # Introdução
 
-A marca Veltis Studio representa muito mais do que um software.
+A marca Orizon Studio representa muito mais do que um software.
 
 Ela representa uma nova maneira de conectar profissionais da engenharia, arquitetura e design aos seus clientes, utilizando tecnologia para criar experiências memoráveis.
 
@@ -21,9 +21,9 @@ Nosso objetivo é construir uma marca admirada.
 
 # Origem do Nome
 
-## Veltis
+## Orizon
 
-A marca Veltis foi criada para representar inovação, tecnologia, confiança e crescimento.
+A marca Orizon foi criada para representar inovação, tecnologia, confiança e crescimento.
 
 Seu nome é curto, forte, moderno e possui excelente sonoridade.
 
@@ -31,10 +31,10 @@ Além disso, permite expansão para diversos produtos.
 
 Exemplos:
 
-- Veltis Studio
-- Veltis AI
-- Veltis Workspace
-- Veltis Odonto
+- Orizon Studio
+- Orizon AI
+- Orizon Workspace
+- Orizon Odonto
 
 Criando um verdadeiro ecossistema de soluções.
 
@@ -74,7 +74,7 @@ A tecnologia existe para eliminar tarefas repetitivas.
 
 # Nossa Essência
 
-A Veltis Studio nasce baseada em cinco pilares.
+A Orizon Studio nasce baseada em cinco pilares.
 
 ## Crescimento
 
@@ -124,7 +124,7 @@ Ela evoluirá continuamente baseada no feedback dos clientes.
 
 # Personalidade da Marca
 
-Se a Veltis Studio fosse uma pessoa, ela seria:
+Se a Orizon Studio fosse uma pessoa, ela seria:
 
 - Inteligente
 - Elegante
@@ -256,7 +256,7 @@ Essa promessa orientará todas as decisões de produto.
 
 # Conclusão
 
-A marca Veltis Studio representa inovação, crescimento e excelência.
+A marca Orizon Studio representa inovação, crescimento e excelência.
 
 Cada funcionalidade, cada tela, cada interação e cada decisão tomada durante o desenvolvimento deverá reforçar essa identidade.
 
